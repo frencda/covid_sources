@@ -21,3 +21,14 @@ My repository to collect the various sources of Covid-19 data for South Africa t
 ## Excess Deaths
 1. https://www.samrc.ac.za/research-reports
 
+## Universities
+1. Pretoria https://datastudio.google.com/u/0/reporting/1b60bdc7-bec7-44c9-ba29-be0e043d8534/page/hrUIB
+2. UCT https://corona-stats.mobi/en/ZA/national.php
+
+## Daily graphing
+1. Sugan Naidoo https://twitter.com/sugan2503
+2. Ridhwaan Suliman https://twitter.com/rid1tweets
+
+## Other
+1. Bhekisisa https://bhekisisa.org/
+2. Drl Vukozi Marivate https://twitter.com/vukosi
