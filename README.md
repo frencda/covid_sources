@@ -31,4 +31,4 @@ My repository to collect the various sources of Covid-19 data for South Africa t
 
 ## Other
 1. Bhekisisa https://bhekisisa.org/
-2. Drl Vukozi Marivate https://twitter.com/vukosi
+2. Dr. Vukozi Marivate https://twitter.com/vukosi
